@@ -1,2 +1,1 @@
-# cloudflare-r2-explorer
-A repository for a Cloudflare R2 bucket explorer
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
