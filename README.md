@@ -1,4 +1,4 @@
-# Cloudflare R2 Bucket Explorer
+# Cloudflare R2 Bucket Explorer(closed source)
 
 This project is a Cloudflare R2 bucket explorer with a smooth and user-friendly interface similar to filepipe.io. It is hosted on GitHub Pages and can be deployed using GitHub Actions.
 
